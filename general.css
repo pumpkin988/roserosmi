@@ -1,0 +1,15 @@
+p{
+   
+    margin-top: 0;
+    margin-bottom: 0;
+    vertical-align: top;
+}
+body{
+    /*This style below will be inherited*/
+    font-family: Roboto,Arial;
+    margin: 0;
+    padding-top: 80px;
+    height: 3000px;
+    position: absolute;
+    padding-left: 70px;
+}
